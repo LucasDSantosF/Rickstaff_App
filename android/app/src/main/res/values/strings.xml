@@ -80,6 +80,7 @@
     <string name="login_entrar">Entrar</string>
     <string name="cadastrar">Cadastrar</string>
     <string name="criar_conta">Criar Conta</string>
+    <string name="cadastro_subtitulo">Faça seu cadastro para continuar</string>
 
 
 </resources>
