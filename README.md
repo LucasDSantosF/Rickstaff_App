@@ -151,12 +151,14 @@ Clique em **Run** no Android Studio ou pressione `Shift+F10`.
 
 ## Credenciais de teste
 
+> O usuário administrador é criado automaticamente na primeira inicialização do backend via BootStrap. Não é necessário inserir dados manualmente no banco.
 
 
 | Campo | Valor |
 |-------|-------|
 | Email | admin@empresa.com |
 | Senha | 123456 |
+
 
 > Também é possível criar uma nova conta pela tela de registro no próprio app.
 
