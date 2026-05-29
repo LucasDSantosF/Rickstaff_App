@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">RickStaff</string>
+
+    <!--  character  -->
+    <string name="character_status">"Status: "</string>
+    <string name="character_especie">"Espécie: "</string>
+    <string name="character_genero">"Gênero: "</string>
+    <string name="character_filter_all">Todos</string>
+    <string name="character_personagens">Personagens</string>
+    <string name="character_hint_especie">Espécie</string>
+    <string name="character_filtrar">Filtrar</string>
+    <string name="character_status_text">Status</string>
+    <string name="character_genero_text">Gênero</string>
+    <string name="character_nenhum_personagem">Nenhum personagem encontrado</string>
+    <string name="character_foto">Foto</string>
+
+    <!--  profile  -->
+    <string name="profile_id">"ID: "</string>
+    <string name="profile_status">"Status: "</string>
+    <string name="profile_especie">"Espécie: "</string>
+    <string name="profile_tipo">"Tipo: "</string>
+    <string name="profile_genero">"Gênero: "</string>
+    <string name="profile_origem">"Origem: "</string>
+    <string name="profile_localizacao">"Localização: "</string>
+    <string name="profile_episodios">"Episódios: "</string>
+    <string name="profile_url">"URL: "</string>
+    <string name="profile_criacao">"Criado em: "</string>
+    <string name="profile_sucesso">"POST enviado!"</string>
+    <string name="profile_erro">"Erro no POST"</string>
+    <string name="profile_camera">Câmera</string>
+
+    <!--  employee  -->
+    <string name="employee_salario">"Salário: R$ "</string>
+    <string name="employee_ativo">"Ativo"</string>
+    <string name="employee_inativo">"Inativo"</string>
+    <string name="employee_editar">"Editar Funcionário"</string>
+    <string name="employee_novo">"Novo Funcionário"</string>
+    <string name="employee_dados_faltando">"Preencha todos os campos"</string>
+    <string name="employee_Excluir">"Excluir"</string>
+    <string name="employee_pergunta_excluir">"Deseja excluir "</string>
+    <string name="employee_btn_sim">"Sim"</string>
+    <string name="employee_btn_nao">"Não"</string>
+    <string name="employer_editar">Editar</string>
+    <string name="employee_excluir">Excluir</string>
+    <string name="employee_funcionario">Funcionário</string>
+    <string name="employee_hint_nome">Nome completo</string>
+    <string name="employee_hint_e_mail">E-mail</string>
+    <string name="employee_hint_cargo">Cargo</string>
+    <string name="employee_hint_salario">Salário (R$)</string>
+    <string name="employee_funcionario_ativo">Funcionário ativo</string>
+    <string name="employee_salvar">Salvar</string>
+    <string name="employee_nenhum_funcionario">Nenhum funcionário cadastrado</string>
+    <string name="employee_adicionar">Adicionar</string>
+
+    <!--  menu  -->
+    <string name="menu_hello">"Olá, "</string>
+    <string name="menu_user">"usuário"</string>
+
+    <!--  splash  -->
+    <string name="splash_avatar">RS</string>
+    <string name="splash_personagens_funcionarios"><![CDATA[Personagens & Funcionários]]></string>
+    <string name="splash_version">v1.0</string>
+
+    <!--  menu  -->
+    <string name="menu_escolha">Escolha um módulo</string>
+    <string name="menu_rick_and_morty_api">Rick and Morty API</string>
+    <string name="menu_funcionarios">Funcionários</string>
+    <string name="menu_backend_grails_mysql">Backend Grails + MySQL</string>
+    <string name="menu_sair">Sair</string>
+
+    <!--  main  -->
+    <string name="bem_vindo">Bem-vindo!</string>
+    <string name="subtitulo">Gerencie personagens e funcionários\nde forma simples e rápida.</string>
+    <string name="comecar">Entrar</string>
+
+    <!--  login  -->
+    <string name="login_subtitulo">Faça login para continuar</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_hint_senha">Senha</string>
+    <string name="login_entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="criar_conta">Criar Conta</string>
+
+
+</resources>
