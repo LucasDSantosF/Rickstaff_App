@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+.idea/
+*.class
+bin/
+gen/
+out/
+release/
