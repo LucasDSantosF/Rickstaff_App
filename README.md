@@ -267,3 +267,40 @@ rickstaff-app/
 **Autenticação:** o backend valida credenciais contra a tabela `usuario` no MySQL. O token retornado é armazenado na sessão local e mantido enquanto o fluxo estiver ativo.
 
 **Comunicação local:** o app se comunica com o backend local via IP da rede Wi-Fi ou `adb reverse`. Não é necessário deploy externo para demonstração.
+
+---
+ 
+## Screenshots
+ 
+> Todas as capturas foram feitas em modo escuro.
+ 
+### Fluxo de autenticação
+ 
+| Splash | Tela Inicial |
+|--------|--------------|
+| <img width="250" height="550" alt="Screenshot_20260528_232801_RickStaff" src="https://github.com/user-attachments/assets/e7644403-b40e-4cf2-b31b-a048244b9a05" /> | <img width="250" height="550" alt="Screenshot_20260528_232801_RickStaff" src="https://github.com/user-attachments/assets/ceba0d73-8c60-4c72-8ba4-a43c98baae01" /> |
+
+| Login | Cadastro |
+|-------|----------|
+| <img width="250" height="550" alt="Screenshot_20260528_232801_RickStaff" src="https://github.com/user-attachments/assets/ce842ad0-1fe6-48fb-b595-e5b091123256" /> | <img width="250" height="550" alt="Screenshot_20260528_232801_RickStaff" src="https://github.com/user-attachments/assets/840c099f-b6dc-4e51-aa76-7aefbaf7cbd2" /> |
+
+ 
+### Menu e Personagens
+ 
+| Menu Principal | Listagem | Filtros ativos |
+|---------------|----------|----------------|
+| <img width="250" height="550" alt="Screenshot_20260528_232737_RickStaff" src="https://github.com/user-attachments/assets/94461857-0916-413f-bbb6-48963f5875b1" /> | <img width="250" height="550" alt="Screenshot_20260528_232456_RickStaff" src="https://github.com/user-attachments/assets/95573280-27a4-4805-8b07-0680f2b51044" /> | <img width="250" height="550" alt="Screenshot_20260528_232517_RickStaff" src="https://github.com/user-attachments/assets/f906040b-3141-449b-bc37-4adda9a00162" /> | 
+
+ 
+### Perfil e Câmera
+ 
+| Perfil (foto original) | Perfil (foto capturada) |
+|-----------------------|------------------------|
+| <img width="250" height="550" alt="Screenshot_20260528_232630_RickStaff" src="https://github.com/user-attachments/assets/b5b4765f-e155-4b6c-bf67-808ac3c3fca5" /> | <img width="250" height="550" alt="Screenshot_20260528_232724_RickStaff" src="https://github.com/user-attachments/assets/e6194ad7-7011-45a1-8117-68879bf21f8e" /> |
+ 
+
+### Módulo Funcionários
+ 
+| Listagem | Formulário |
+|----------|------------|
+| <img width="250" height="550" alt="Screenshot_20260528_232535_RickStaff" src="https://github.com/user-attachments/assets/a5eccf31-f1f8-4bd9-acbd-412af8f92f07" /> | <img width="250" height="550" alt="Screenshot_20260528_232550_RickStaff" src="https://github.com/user-attachments/assets/8ba0f393-27ff-47a5-8ec0-059007576d78" /> |
