@@ -8,7 +8,7 @@ public class ApiClient {
 
     // Emulador: 10.0.2.2 acessa o localhost da sua máquina
     // Dispositivo físico: troque pelo IP da sua máquina na rede Wi-Fi
-    public static final String BASE_URL = "http://192.168.0.102:8080";
+    public static final String BASE_URL = "http://10.0.2.2:8080";
 
     private static OkHttpClient client;
 
